@@ -1,0 +1,1 @@
+discord developer portalからclient idを取得し、自分のsoundcloudのplaylist urlを書き込んでください
